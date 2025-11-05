@@ -4,7 +4,8 @@ Interfaz por consola (vista). No debe tocar la base directamente; usa controlado
 """
 
 import sys
-from Controlador import gestor
+from controlador import gestor
+
 
 CSV_PRUEBA = "estudiantes.csv"
 
